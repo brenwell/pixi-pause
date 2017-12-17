@@ -1,9 +1,9 @@
 # pixi-pause
 
-pixi-pause is a pixi.js plugin which automatically pause and resumes your `PIXI.Application` when the browser windows visibilty is changed.
+pixi-pause is a pixi.js plugin which automatically pauses and resumes your `PIXI.Application` when the browser windows visibilty is changed.
 
 
-## Intall
+## Install
 
 ```shell
 npm i pixi-pause
