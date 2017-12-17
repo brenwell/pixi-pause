@@ -13,16 +13,22 @@ npm i pixi-pause
 
 ### Basic usage
 
+### Importing
+
 Pixi pause will automatically begin listening to visibilty changes as soon it required
 
-```js
-// common.js
-require('pixi.js')
-require('pixi-pause.js')
+#### common.js
 
-// es6 modules
+```js
+require('pixi.js')
+require('pixi-pause')
+```
+
+#### es6 modules
+
+```js
 import pixi from 'pixi.js'
-import pixiPause from 'pixi-pause.js'
+import pixiPause from 'pixi-pause'
 ```
 
 ### Disable
