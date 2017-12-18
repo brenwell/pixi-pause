@@ -1,6 +1,6 @@
 {
   "name": "pixi-pause",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plugin for pixi.js, which automatically pauses and resumes your App's rendering when the browser window's visibility changes",
   "main": "lib/pixi-pause.js",
   "directories": {
