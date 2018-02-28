@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brenwell/pixi-timeout.git"
+    "url": "git+https://github.com/brenwell/pixi-pause.git"
   },
   "keywords": [
     "pixi",
@@ -31,9 +31,9 @@
   "author": "Brendon Blackwell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brenwell/pixi-timeout/issues"
+    "url": "https://github.com/brenwell/pixi-pause/issues"
   },
-  "homepage": "https://github.com/brenwell/pixi-timeout#readme",
+  "homepage": "https://github.com/brenwell/pixi-pause#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.35",
     "@babel/core": "^7.0.0-beta.35",
